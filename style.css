@@ -121,7 +121,7 @@ footer{
  
 .gallery{
 	opacity: 0; /* Set initial opacity to 0 */
-  animation: fadeIn 2.5s ease-in-out forwards; /* Animation name, duration, timing function, and fill mode */
+  animation: fadeIn 3.5s ease-in-out forwards; /* Animation name, duration, timing function, and fill mode */
 }
 
 @keyframes fadeIn {
@@ -135,7 +135,7 @@ footer{
 }
 .About_me,header{
 	opacity: 0; /* Set initial opacity to 0 */
-  animation: fadeIn 2.5s ease-in-out forwards; /* Animation name, duration, timing function, and fill mode */
+  animation: fadeIn 3.5s ease-in-out forwards; /* Animation name, duration, timing function, and fill mode */
 }
 
 @keyframes fadeIn {
